@@ -21,20 +21,20 @@
         echo "You have selected: ".$_POST['Rocks']."<br>";
         if($_POST["Rocks"] == "Rose_Quartz")
         {
-            echo '<img src="/forms/img/Rose_Quartz.png"/>';
+            echo '<img src="/img/Rose_Quartz.jpg"/>';
             echo "Rose Quartz are usually used to help with a person's heart chakra.";
             echo "<br>";
         }
         
         elseif ($_POST["Rocks"] == "Onyx") 
         {
-            echo '<img src="/forms/img/Onyx.png"/>';
+            echo '<img src="/img/Onyx.jpg"/>';
             echo "Onyx is usually helps one find their inner self.";
             echo "<br>";
         }
         
         else {
-            echo '<img src="/forms/img/LapisLazuli.png"/>';
+            echo '<img src="/img/LapisLazuli.jpg"/>';
             echo "Lapis Lazuli helps bring peace to one self.";
             echo "<br>";
         }
