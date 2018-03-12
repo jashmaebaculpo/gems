@@ -1,0 +1,36 @@
+body
+{
+    background-color: mistyrose;
+    color: goldenrod;
+    font-size: x-large;
+}
+
+#welcomeText
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+#topText
+{
+    text-align: center;
+    font-size: 95px;
+}
+
+#Rocks
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+#name
+{
+    text-align: center;
+    font-size: 25px;
+}
+
+#choice
+{
+    font-size: x-large;
+}
