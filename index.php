@@ -36,23 +36,27 @@
                 Enter your name:
                 <input name="firstname" type="name">
                 </div>
-    
+                
+                <div id = "Rose">
                        <input type="radio" name="Rocks" value = "Rose_Quartz"  id = "Rose_Quartz"/>
                        <label for="Rose_Quartz">
                            <img src="/forms/img/Rose_Quartz.png">
                        </label>
-                       <br>
-                   
+                       </div>
+                       
+                   <div id = "Onyx">
                        <input type="radio" name="Rocks" value = "Onyx" id = "Onyx"/>
                        <label for="Onyx">
                            <img src="/forms/img/Onyx.png">
                        </label>
-                       <br>
+                       </div>
                    
+                   <div id = "Lapis">
                        <input type="radio" name="Rocks" value = "LapisLazuli" id = "LapisLazuli"/>
                    <label for="LapisLazuli">
                            <img src="/forms/img/LapisLazuli.png" >
                        </label>
+                        <div id = "Lapis">
                    
                 
                 <br>  

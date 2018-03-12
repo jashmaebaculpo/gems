@@ -34,3 +34,17 @@ body
 {
     font-size: x-large;
 }
+
+#Rose{
+    text-align: left;
+}
+
+#Onyx
+{
+    text-align: center;
+}
+
+#Lapis
+{
+    text-align: right;
+}
