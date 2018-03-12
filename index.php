@@ -44,19 +44,19 @@
                        </label>
                        </div>
                        
-                   <div id = "Onyx">
+                   
                        <input type="radio" name="Rocks" value = "Onyx" id = "Onyx"/>
                        <label for="Onyx">
                            <img src="/forms/img/Onyx.png">
                        </label>
-                       </div>
+                  
                    
                    <div id = "Lapis">
                        <input type="radio" name="Rocks" value = "LapisLazuli" id = "LapisLazuli"/>
                    <label for="LapisLazuli">
                            <img src="/forms/img/LapisLazuli.png" >
                        </label>
-                        <div id = "Lapis">
+                        </div>
                    
                 
                 <br>  
@@ -68,10 +68,13 @@
                     <option value="diamond"> Diamond </option>
                     <option value= "spade"> Spade </option>
                     <option value= "club"> Club </option>
-
                 </select>
                 </div>
+                
+                <div id = "select">
                 <input type="submit" name="submit"/>
+                </div>
+                
                 </form>
             </div>
             
