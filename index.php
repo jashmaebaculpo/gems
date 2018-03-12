@@ -40,21 +40,21 @@
                 <div id = "Rose">
                        <input type="radio" name="Rocks" value = "Rose_Quartz"  id = "Rose_Quartz"/>
                        <label for="Rose_Quartz">
-                           <img src="/forms/img/Rose_Quartz.png">
+                           <img src="/forms/img/Rose_Quartz.jpg">
                        </label>
                        </div>
                        
                    
                        <input type="radio" name="Rocks" value = "Onyx" id = "Onyx"/>
                        <label for="Onyx">
-                           <img src="/forms/img/Onyx.png">
+                           <img src="/forms/img/Onyx.jpg">
                        </label>
                   
                    
                    <div id = "Lapis">
                        <input type="radio" name="Rocks" value = "LapisLazuli" id = "LapisLazuli"/>
                    <label for="LapisLazuli">
-                           <img src="/forms/img/LapisLazuli.png" >
+                           <img src="/forms/img/LapisLazuli.jpg" >
                        </label>
                         </div>
                    
